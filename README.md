@@ -29,3 +29,4 @@ Next.js Frontend → Express API (main) → PostgreSQL
 ## Projects
 
 - Job-app-tracker
+- Vite Practice Project - Portfolio Website
