@@ -1,6 +1,14 @@
 # Anthony Henry
+> Looking for SDE roles
 
-## STACK
+## About
+BSIT/BSCS - Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
+MSCS - GA Tech (Computing Systems & Human-Computer Interaction)
+
+
+
+
+## Current project STACK
 
 ```lua
 Frontend: Next.js 16 (App Router), React 19, TypeScript 5.9, Tailwind CSS 4.0, shadcn/ui, React Hook Form + Zod, TanStack Query v5, Axios, Vitest + @testing-library/react, MSW, Playwright
