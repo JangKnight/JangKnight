@@ -12,7 +12,7 @@
 
 
 ## Current project STACK
-> Node service: Job-Application-Tracker
+> Node service: Job-Application-Tracker <br>
 > Go Service: Notes Integration
 <br>
 <br>
