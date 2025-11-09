@@ -2,8 +2,9 @@
 > Looking for SDE roles
 
 ## About
-BSIT/BSCS - Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
-MSCS - GA Tech (Computing Systems & Human-Computer Interaction)
+- BSIT/BSCS @ Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
+
+- MSCS @ GA Tech (Computing Systems & Human-Computer Interaction)
 
 
 
