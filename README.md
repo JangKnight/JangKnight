@@ -1,6 +1,6 @@
 # Anthony Henry
-> Looking for SDE roles
-> Currently building a portfolio with a few microservices attached. EST time is 2.5 - 4 weeks
+> Looking for SDE roles <br>
+
 
 
 ## About
@@ -11,9 +11,8 @@
 
 
 
-## Current project STACK
-> Node service: Job-Application-Tracker <br>
-> Go Service: Notes Integration
+## MY STACK
+> 
 <br>
 <br>
 
