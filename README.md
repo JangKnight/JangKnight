@@ -1,5 +1,5 @@
 # Anthony Henry
-> Looking for SDE roles <br>
+> Looking for `SRE || DevOps || Backend` roles <br>
 
 
 
