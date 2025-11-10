@@ -24,16 +24,18 @@
 <br>
 
 ```lua
-Frontend: Vite, React 19, TypeScript 5.9
+Frontend: Vite, React 19, TypeScript 5.9, Tailwind
 
-API Gateway: Go 1.21+, Gin framework, structured logging
+Gateway_API: Go 1.21+, Gin framework, structured logging
 
 Microservices:
   - Go (data processing, external API calls)
-  - Node.js (if specific npm library needed)
+  - Node (if specific npm library needed)
   - Python (where scraping is required)
 
-Database: PostgreSQL 16, Azure Database
+Database: PostgreSQL 16, Azure Database, AWS
 
 Infrastructure: Azure Container Apps, GitHub Actions, Terraform
 ```
+
+
