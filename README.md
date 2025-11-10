@@ -23,7 +23,7 @@ API Gateway: Go 1.21+, Gin framework, structured logging
 Microservices: 
   - Go (data processing, external API calls)
   - Node.js (if specific npm library needed)
-  - Pick per service pragmatically
+  - Python (where scraping is required)
 
 Database: PostgreSQL 16, Azure Database
 
