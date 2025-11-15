@@ -33,9 +33,9 @@ Microservices:
   - Node (if specific npm library needed)
   - Python (where scraping is required)
 
-Database: PostgreSQL 16, Azure Database, AWS
+Database: PostgreSQL 16, Azure Database, AWS, GCP
 
-Infrastructure: Azure Container Apps, GitHub Actions, Terraform
+Infrastructure: Azure Container Apps, GitHub Actions, Terraform, Docker, GKE
 ```
 
 
