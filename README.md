@@ -23,7 +23,7 @@
 
 <br>
 
-```lua
+```yaml
 Frameworks: Next, React, Tailwind, Gin framework, FastAPI, Flask, Django, Spring
 
 Preferred Languages:
