@@ -1,5 +1,5 @@
 # Anthony Henry
-> Looking for `Full-Stack || DevOps || Backend` roles <br>
+> Looking for `Full-Stack || Platform || DevOps` roles <br>
 
 
 
