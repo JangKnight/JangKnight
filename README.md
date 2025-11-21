@@ -39,7 +39,7 @@ Infrastructure: Azure Container Apps, GitHub Actions, Terraform, Docker, Kuberne
 ```
 <br> <br>
 
-```json
+```yaml
 EZ RULES
 - Use CAPS for constants
 - Naming should not require comments to provide meaning
