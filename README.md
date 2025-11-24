@@ -1,7 +1,7 @@
 # Anthony Henry   🧙🏾‍♂️
 
 
-![Static Badge](https://img.shields.io/badge/Anthony%20is%20suspected%20to%20be-A%20DevOps%20Sorcerer-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
+![Static Badge](https://img.shields.io/badge/Anthony%20is%20suspected%20to%20be-A%20Sorcerer-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
 
 
 
