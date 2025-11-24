@@ -5,7 +5,7 @@
 
 
 
-> Looking for `Full-Stack || Platform || DevOps` roles <br>
+> Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
 
 
 
