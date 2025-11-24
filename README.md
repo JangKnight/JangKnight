@@ -1,7 +1,8 @@
 # Anthony Henry   
 
 
-![Sorcerer](https://img.shields.io/badge/🧙_User_is_suspected_to_be-A_DevOps_Sorcerer-blueviolet?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/%F0%9F%A7%99%F0%9F%8F%BE%E2%80%8D%E2%99%82%EF%B8%8FAnthony%20is%20suspected%20to%20be-A%20DevOps%20Sorcerer-blueviolet?style=plastic)
+
 
 
 > Looking for `Full-Stack || Platform || DevOps` roles <br>
