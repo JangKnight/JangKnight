@@ -13,7 +13,7 @@
 
 - MSCS @ GA Tech (Computing Systems & Human-Computer Interaction)
 
-<br> <br> <br>
+<br> 
 
 > Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
 
