@@ -8,13 +8,14 @@
 
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
-> Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
 
 - BSIT/BSCS @ Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
 
 - MSCS @ GA Tech (Computing Systems & Human-Computer Interaction)
 
+<br> <br> <br>
 
+> Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
 
 
 ## MY STACK
