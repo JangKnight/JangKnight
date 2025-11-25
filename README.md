@@ -1,15 +1,13 @@
 # Anthony Henry  🧙🏾‍♂️
 
-
 ![Static Badge](https://img.shields.io/badge/Anthony%20is%20suspected%20to%20be-A%20Sorcerer-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
-
-
-
-> Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
 
 ![](https://komarev.com/ghpvc/?username=AnthonySJHenry&style=flat-square&color=blueviolet)
 
 ## About
+
+> Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
+
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 - BSIT/BSCS @ Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
 
