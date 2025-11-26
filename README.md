@@ -13,6 +13,8 @@
 
 - MSCS @ GA Tech (Computing Systems & Human-Computer Interaction)
 
+- Research @ Maryville (Cybersecurity) [CURRENT]
+
 <br> 
 
 > Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
