@@ -2,7 +2,7 @@
 
 <br>
 
-![](https://komarev.com/ghpvc/?username=AnthonySJHenry&style=for-the-badge&color=blueviolet)
+![](https://komarev.com/ghpvc/?username=AnthonySJHenry&style=for-the-badge)
 
 <br>
 
