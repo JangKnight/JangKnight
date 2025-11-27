@@ -1,6 +1,6 @@
 # Anthony Henry  🧙🏾‍♂️
 
-[![HitCount](https://hits.dwyl.com/anthonysjhenry/anthonysjhenry.svg?style=flat-square&color=blueviolet)](http://hits.dwyl.com/anthonysjhenry/anthonysjhenry)
+[![HitCount](https://hits.dwyl.com/anthonysjhenry/anthonysjhenry.svg?style=flat-square&color=blueviolet)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anthonysjhenry)
