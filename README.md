@@ -1,6 +1,6 @@
 # Anthony Henry  🧙🏾‍♂️
 
-[![HitCount](https://hits.dwyl.com/AnthonySJHenry/{project}.svg?style=flat-square)](http://hits.dwyl.com/anthonysjhenry)
+[![HitCount](https://hits.dwyl.com/anthonysjhenry/anthonysjhenry.svg?style=flat-square)](http://hits.dwyl.com/anthonysjhenry/anthonysjhenry)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=anthonysjhenry)
