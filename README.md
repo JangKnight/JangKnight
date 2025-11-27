@@ -46,7 +46,7 @@ Database: PostgreSQL 16, Azure Database, Supabase, Firebase, Heroku
 Infrastructure: Azure Container Apps, GitHub Actions, Terraform, Docker, Kubernetes
 
 ```
-<br> <br>
+
 
 ```yaml
 EZ RULES:
@@ -56,5 +56,10 @@ EZ RULES:
 - SRP - Single Responsibility Principle (personal favorite)
 - DRY - Don't Repeast Yourself (pkgs, libs, structs, methods, functions... use them)
 ```
+<br>
+
+<h2 align="center"><b>&nbsp;Visitors&nbsp;</b>
+</h2>
+<br>
 
 [![Anthony Henry profile views](https://u8views.com/api/v1/github/profiles/30806798/views/day-week-month-total-count.svg)](https://u8views.com/github/AnthonySJHenry)
