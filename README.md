@@ -19,7 +19,7 @@
 > Looking for `Backend || Platform || DevOps || Full-Stack` roles <br>
 
 
-## MY STACK
+## Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
