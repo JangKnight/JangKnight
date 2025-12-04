@@ -1,26 +1,25 @@
-# Anthony Henry  
+# AboutMe
+
+![Static Badge](https://img.shields.io/badge/User%20is%20suspected%20of%20being-A%20Cloned%20Linux%20Distro-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
 
 
-![Static Badge](https://img.shields.io/badge/Anthony%20is%20suspected%20of%20being-A%20Linux%20Sorcerer-blueviolet?style=for-the-badge&logo=linux&logoSize=72x48)
-
-
-## About
+## Career
 
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
 
-- BSIT/BSCS @ Kennesaw State (Enterprise Systems & Data - HPC & Parallel Programming)
+- BSIT/BSCS @ KSU
 
-- MSCS @ GA Tech (Computing Systems & Human-Computer Interaction)
+- MSCS @ GT
 
-- Research @ Maryville (Cybersecurity) [CURRENT]
+- Security Researcher
 
 <br> 
 
 > Looking for `Backend || Platform || DevOps || Site Reliability Engineer` roles <br>
 
 
-## MY STACK
+## Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
