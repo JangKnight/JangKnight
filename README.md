@@ -19,7 +19,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,github,gitlab,js,mongodb,react,nodejs,py,selenium,postman,fastapi,flask&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,github,gitlab,mongodb,react,nodejs,py,selenium,fastapi,flask&perline=10" />
   </a>
 </p>
 
