@@ -2,7 +2,9 @@
 
 ## Career
 
-> Looking for `Backend || Platform || DevOps/SRE` roles
+> Wants to build specialization:
+
+> Looking for `Backend || Platform || Full-Stack` roles
 
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
