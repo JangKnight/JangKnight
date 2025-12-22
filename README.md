@@ -11,7 +11,7 @@
 ```
 - BSIT/BSCS @ KSU
 - MSCS @ GT
-- AI Researcher
+- Bug Hunter
 ```
 
 <br> 
