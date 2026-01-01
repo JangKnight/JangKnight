@@ -6,7 +6,7 @@
 
 > Looking for `Backend || DevOps || Full-Stack` roles
 
-<a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
+<a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
 ```
 - BS in Computer Engineering and IT @ KSU (class of '22; Double Major) | Minor in Communications
