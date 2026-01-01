@@ -9,9 +9,9 @@
 <a href="https://www.linkedin.com/in/anthonysjhenry/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
 ```
-- BSIT/BSCS @ KSU (class of '22)
+- BS in Computer Engineering and IT @ KSU (class of '22; Double Major) | Minor in Communications
 - MSCS @ GT (8/10 courses completed; not currently enrolled)
-- Cloud enthusiast
+- Automation enthusiast
 ```
 
 <br> 
