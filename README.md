@@ -10,7 +10,7 @@
 
 ```
 - BS in Computer Engineering and IT @ KSU (class of '22; Double Major) | Minor in Communications
-- MSCS @ GT (8/10 courses completed; not currently enrolled)
+- MSCS @ GT (21 credits completed; not currently enrolled)
 - Automation enthusiast
 ```
 
