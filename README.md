@@ -10,7 +10,7 @@
 
 ```
 - BS in Computer Engineering and IT @ KSU (class of '22; Double Major) | Minor in Communications
-- MSCS @ GT (8/10 courses completed; not currently enrolled)
+- MSCS @ GT (21 credits completed; not currently enrolled)
 - Automation enthusiast
 ```
 
@@ -21,7 +21,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,github,gitlab,mongodb,react,nodejs,py,selenium,fastapi,flask&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,postman,gitlab,selenium,react,nodejs,py,django,fastapi,flask&perline=10" />
   </a>
 </p>
 
