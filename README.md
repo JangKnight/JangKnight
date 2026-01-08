@@ -2,7 +2,7 @@
 
 ## Career
 
-> Wants to build specialization:
+
 
 > Looking for `Backend || DevOps || Full-Stack` roles
 
