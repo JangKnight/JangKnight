@@ -1,5 +1,7 @@
 # AboutMe
 
+<a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
+
 <img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge">
 
 ## Career
@@ -9,7 +11,6 @@
 > Looking for `Backend || DevOps || Full-Stack` roles
 
 
-<a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow"><img src="linkedin.svg" alt="LinkedIn"></a>
 
 ```
 - BS in Computer Engineering and IT @ KSU (class of '22; Double Major) | Minor in Communications
