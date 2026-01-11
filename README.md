@@ -14,7 +14,7 @@
 
 ```
 - BS in Computer Engineering and IT @ KSU (class of '22; Double Major) | Minor in Communications
-- Automation enthusiast
+- Cloud & Automation enthusiast
 ```
 
 <br> 
