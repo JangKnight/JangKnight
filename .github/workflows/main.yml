@@ -27,6 +27,7 @@ jobs:
           git remote add gitlab "https://oauth2:${GL_PAT}@gitlab.com/${GL_NAMESPACE}/${REPO_NAME}.git"
 
           echo "==> Pushing branch ${GITHUB_REF_NAME}"
+          git pull gitlab
           git push gitlab "HEAD:${GITHUB_REF_NAME}"
 
           echo "==> Pushing tags"
