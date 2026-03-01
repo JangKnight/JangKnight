@@ -22,6 +22,17 @@
 
 ## Stack
 
+```lua
+/example-monorepo
+├── /backend-core      # Django (Auth, Blog Posts, Database)
+├── /services          # Go APIs (e.g., Image processing, Analytics)
+├── /frontend          # React + Tailwind (Vite)
+├── /infra             # Dockerfiles, Nginx config, Deployment scripts
+├── docker-compose.yml # Local spin-up
+└── .gitignore
+
+```
+
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,postman,gitlab,selenium,react,nodejs,py,django,fastapi,flask&perline=10" />
