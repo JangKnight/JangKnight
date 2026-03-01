@@ -8,7 +8,7 @@
 
 
 
-> Looking for `Backend || DevOps || Full-Stack` roles
+> Looking for `Backend || Infrastructure || Full-Stack` roles
 
 
 
