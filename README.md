@@ -6,15 +6,12 @@
 
 ## Career
 
+> Looking for `Full-Stack || Backend || DevOps` roles
 
-
-> Looking for `Backend || Infrastructure || Full-Stack` roles
-
-
-
-```
-- BS in Computer Engineering and IT @ KSU (class of '22; Double Major) | Minor in Communications
-- Automation enthusiast
+```lua
+- Education: BS in Computer Engineering and IT @ KSU (class of 2022; Double Major) | Minor in Communications | GPA: 3.8/4.0
+- Interests: Human-computer interaction, web and api engineering, database management, and infrastruture automation
+- Tech: Golang, Python, Typescript, React, NodeJS, Django, FastAPI, Flask, Kubernetes, Docker, AWS, Azure, Postgres, Supabase, Git, GitLab, Postman, Selenium
 ```
 
 <br> 
@@ -48,4 +45,3 @@
 <br>
 
 [![Anthony Henry profile views](https://u8views.com/api/v1/github/profiles/30806798/views/day-week-month-total-count.svg)](https://u8views.com/github/AnthonySJHenry)
-
