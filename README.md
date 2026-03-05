@@ -21,8 +21,8 @@
 
 ```lua
 /example-monorepo
-├── /backend-core      # Django (Auth, Blog Posts, Database)
-├── /services          # Go APIs (e.g., Image processing, Analytics)
+├── /backend           # Golang + PostgreSQL
+├── /services          # Go or FastAPI (e.g., Image processing, Analytics, AI)
 ├── /frontend          # React + Tailwind (Vite)
 ├── /infra             # Dockerfiles, Nginx config, Deployment scripts
 ├── docker-compose.yml # Local spin-up
