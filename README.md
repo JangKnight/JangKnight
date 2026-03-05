@@ -10,7 +10,7 @@
 
 ```lua
 - Education: BS in Computer Engineering and IT @ KSU (class of 2022; Double Major) | Minor in Communications | GPA: 3.8/4.0
-- Interests: Human-computer interaction, web and api engineering, database management, and infrastruture automation
+- Interests: Human-computer interaction, ui and api engineering, database management, and infrastruture automation
 - Tech: Golang, Python, Typescript, React, NodeJS, Django, FastAPI, Flask, Kubernetes, Docker, AWS, Azure, Postgres, Supabase, Git, GitLab, Postman, Selenium
 ```
 
