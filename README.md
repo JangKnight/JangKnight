@@ -1,4 +1,4 @@
-# AboutMe
+## AboutMe
 
 [GitLab](https://gitlab.com/JangKnight/JangKnight)
 
