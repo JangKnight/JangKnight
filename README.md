@@ -6,6 +6,9 @@
 
 <a href="https://www.codewars.com/users/JangKnight"><img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge"></a>
 
+<br> 
+<br>
+
 ## Career
 
 > Looking for `Full-Stack || Backend || DevOps` roles
