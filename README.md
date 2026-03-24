@@ -1,6 +1,6 @@
 ## AboutMe
 
-[GitLab](https://gitlab.com/JangKnight/JangKnight)
+> [GitLab](https://gitlab.com/JangKnight/JangKnight)
 
 <a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow"><img src="./linkedin.svg" alt="LinkedIn"></a>
 
@@ -26,7 +26,7 @@
 
 ```lua
 /example-monorepo
-├── /backend           # Django or Gin + PostgreSQL
+├── /backend           # Django Ninja or FastAPI + PostgreSQL
 ├── /services          # Gin or FastAPI (e.g., Image processing, Analytics, AI)
 ├── /frontend          # React + Tailwind (Vite)
 ├── /infra             # Dockerfiles, Nginx config, Deployment scripts
