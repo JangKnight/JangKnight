@@ -1,6 +1,8 @@
 # AboutMe
 
-<a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow"><img src="./linkedin.svg" alt="LinkedIn"></a> [GitLab](https://gitlab.com/JangKnight/JangKnight)
+<a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow"><img src="./linkedin.svg" alt="LinkedIn"></a>
+
+[GitLab](https://gitlab.com/JangKnight/JangKnight)
 
 <a href="https://www.codewars.com/users/JangKnight"><img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge"></a>
 
