@@ -1,4 +1,4 @@
-## [AboutMe](https://anthonysjhenry.vercel.app)
+## [AboutMe](https://www.anthonysjhenry.dev)
 
 > [GitLab](https://gitlab.com/JangKnight/JangKnight)
 
