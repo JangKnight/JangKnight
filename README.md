@@ -4,7 +4,15 @@
 
 <a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow"><img src="./linkedin.svg" alt="LinkedIn"></a>
 
-<a href="https://www.codewars.com/users/JangKnight"><img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge"></a>
+<a href="https://www.codewars.com/users/JangKnight">
+  <img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge">
+</a>
+
+<p align="left">
+    <a href="https://www.boot.dev/u/jangknight">
+        <img src="https://api.boot.dev/v1/users/public/07803ba6-dc34-4f73-8add-7e0bc9866fc4/thumbnail" >
+    </a>
+</p>
 
 <br> 
 <br>
