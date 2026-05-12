@@ -8,11 +8,7 @@
   <img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge">
 </a>
 
-<p align="left">
-    <a href="https://www.boot.dev/u/jangknight">
-        <img src="https://api.boot.dev/v1/users/public/07803ba6-dc34-4f73-8add-7e0bc9866fc4/thumbnail" >
-    </a>
-</p>
+
 
 <br> 
 <br>
@@ -47,6 +43,12 @@
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,postman,gitlab,selenium,react,nodejs,py,django,fastapi,flask&perline=10" />
   </a>
+</p>
+
+<p align="center">
+    <a href="https://www.boot.dev/u/jangknight">
+        <img src="https://api.boot.dev/v1/users/public/07803ba6-dc34-4f73-8add-7e0bc9866fc4/thumbnail" >
+    </a>
 </p>
 
 <br>
