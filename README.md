@@ -6,6 +6,8 @@
   <img src="./linkedin.svg" alt="LinkedIn">
 </a>
 
+<br>
+
 <a href="https://www.codewars.com/users/JangKnight" target="_blank" rel="nofollow">
   <img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge">
 </a>
