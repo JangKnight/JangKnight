@@ -25,8 +25,8 @@
 
 ```lua
 - Education: BS in Computer Science and Cybersecurity @ KSU (class of 2022; Double Major) | Minor in Communications | GPA: 3.8/4.0
-- Interests: Human-computer interaction, ui and api engineering, database management, and infrastruture automation
-- Tech: Golang, Python, Typescript, React, NodeJS, Django, FastAPI, Flask, Kubernetes, Docker, AWS, Azure, Postgres, Supabase, Git, GitLab, Postman, Selenium
+- Interests: infrastructure engineering and automation, monitoring and observability, api engineering, and data ETL pipeline management
+- Tech: Golang, Python, Typescript, React, NodeJS, Django, FastAPI, Flask, Terraform, Docker, AWS, Azure, Postgres, Supabase, Git, GitLab, Postman, Selenium
 ```
 
 <br> 
@@ -47,7 +47,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,postman,gitlab,selenium,react,nodejs,py,django,fastapi,flask&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,terraform,docker,aws,azure,go,supabase,bash,git,postman,gitlab,selenium,react,nodejs,py,django,fastapi,flask&perline=10" />
   </a>
 </p>
 
