@@ -25,7 +25,7 @@
 
 ```lua
 - Education: BS in Computer Science and Cybersecurity @ KSU (class of 2022; Double Major) | Minor in Communications | GPA: 3.8/4.0
-- Interests: infrastructure engineering and automation, monitoring and observability, api engineering, and data ETL pipeline management
+- Interests: infrastructure engineering / automation, monitoring / observability tools, api engineering, and data ETL pipeline management
 - Tech: Golang, Python, Typescript, React, NodeJS, Django, FastAPI, Flask, Terraform, Docker, AWS, Azure, Postgres, Supabase, Git, GitLab, Postman, Selenium
 ```
 
