@@ -8,7 +8,7 @@
   <img src="./linkedin.svg" alt="LinkedIn">
 </a>
 
-<img src="./burp-suite.svg" alt="Burp Suite" width="24" height="24"><img src="./owasp.svg" alt="OWASP" width="24" height="24"><img src="./metasploit.svg" alt="Metasploit" width="24" height="24">
+
 
 <br>
 
@@ -34,7 +34,7 @@
 <br> 
 <br>
 
-## Stack
+## Stack <img src="./burp-suite.svg" alt="Burp Suite" width="24" height="24"><img src="./owasp.svg" alt="OWASP" width="24" height="24"><img src="./metasploit.svg" alt="Metasploit" width="24" height="24">
 
 ```lua
 /example-monorepo
