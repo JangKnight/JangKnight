@@ -34,7 +34,7 @@
 <br> 
 <br>
 
-## Stack <img src="./burp-suite.svg" alt="Burp Suite" width="24" height="24"><picture><source media="(prefers-color-scheme: light)" srcset="./owasp-white.svg"><img src="./owasp.svg" alt="OWASP" width="24" height="24"></picture><picture><source media="(prefers-color-scheme: light)" srcset="./metasploit-white.svg"><img src="./metasploit.svg" alt="Metasploit" width="24" height="24"></picture>
+## Stack <img src="./burp-suite.svg" alt="Burp Suite" width="28" height="28"><picture><source media="(prefers-color-scheme: light)" srcset="./owasp-white.svg"><img src="./owasp.svg" alt="OWASP" width="28" height="28"></picture><picture><source media="(prefers-color-scheme: light)" srcset="./metasploit-white.svg"><img src="./metasploit.svg" alt="Metasploit" width="28" height="28"></picture>
 
 ```lua
 /example-monorepo
