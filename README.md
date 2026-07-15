@@ -8,6 +8,8 @@
   <img src="./linkedin.svg" alt="LinkedIn">
 </a>
 
+
+
 <br>
 
 <a href="https://www.codewars.com/users/JangKnight" target="_blank" rel="nofollow">
@@ -21,18 +23,18 @@
 
 ## Career
 
-> Looking for `Full-Stack || Backend || DevOps` roles
+> Looking for `SRE, DevSecOps, Platform Engineering, CI/CD, and AppSec` roles
 
 ```lua
 - Education: BS in Computer Science and Cybersecurity @ KSU (class of 2022; Double Major) | Minor in Communications | GPA: 3.8/4.0
-- Interests: Human-computer interaction, ui and api engineering, database management, and infrastruture automation
-- Tech: Golang, Python, Typescript, React, NodeJS, Django, FastAPI, Flask, Kubernetes, Docker, AWS, Azure, Postgres, Supabase, Git, GitLab, Postman, Selenium
+- Interests: infrastructure engineering / automation, monitoring / observability tools, api engineering, and data ETL pipeline management
+- Tech: Golang, Python, Typescript, React, NodeJS, Django, FastAPI, Flask, Terraform, Docker, AWS, Azure, Postgres, Supabase, Git, GitLab, Postman, Selenium
 ```
 
 <br> 
 <br>
 
-## Stack
+## Stack <img src="./burp-suite.svg" alt="Burp Suite" width="28" height="28"> <img src="./owasp.svg" alt="OWASP" width="28" height="28"> <img src="./metasploit.svg" alt="Metasploit" width="28" height="28">
 
 ```lua
 /example-monorepo
@@ -47,7 +49,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,kubernetes,docker,aws,azure,go,supabase,bash,git,postman,gitlab,selenium,react,nodejs,py,django,fastapi,flask&perline=10" />
+    <img src="https://skillicons.dev/icons?i=postgres,linux,ts,terraform,docker,aws,azure,go,supabase,bash,git,postman,gitlab,selenium,react,nodejs,py,django,fastapi,flask&perline=10" />
   </a>
 </p>
 
