@@ -23,7 +23,7 @@
 
 ## Career
 
-> Looking for `SRE, DevSecOps, Platform Engineering, CI/CD, and AppSec` roles
+> Looking for `Full-Stack, Platform, Backend, and Infrastruture` roles
 
 ```lua
 - Education: BS in Computer Science and Cybersecurity @ KSU (class of 2022; Double Major) | Minor in Communications | GPA: 3.8/4.0
