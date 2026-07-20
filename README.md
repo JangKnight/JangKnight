@@ -2,7 +2,7 @@
 
 > [GitHub](https://github.com/JangKnight)
 
-> [GitLab](https://gitlab.com/JangKnight/JangKnight)
+> [GitLab](https://gitlab.com/JangKnight)
 
 <a href="https://www.linkedin.com/in/ajaykay/" target="_blank" rel="nofollow">
   <img src="./linkedin.svg" alt="LinkedIn">
