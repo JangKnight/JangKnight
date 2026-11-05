@@ -12,6 +12,10 @@
 
 <br>
 
+<script src="https://tryhackme.com/badge/t/bdd26ba3e414d450a32733aa278f26329032777cd566cb54cbe4778e55c79eb455d48507376c4735ca0f5408c4e60c9e?theme=dark"></script>
+
+<br>
+
 <a href="https://www.codewars.com/users/JangKnight" target="_blank" rel="nofollow">
   <img src="https://www.codewars.com/users/JangKnight/badges/large" alt="Codewars Badge">
 </a>
@@ -67,4 +71,4 @@
 <br>
 <br>
 
-[![Anthony Henry profile views](https://u8views.com/api/v1/github/profiles/30806798/views/day-week-month-total-count.svg)](https://u8views.com/github/AnthonySJHenry)
+[![Profile views](https://u8views.com/api/v1/github/profiles/30806798/views/day-week-month-total-count.svg)](https://u8views.com/github/jangknight)
