@@ -12,7 +12,11 @@
 
 <br>
 
+<a href="https://tryhackme.com/p/jangknight?utm_campaign=social_share&utm_medium=social&utm_content=profile&cardVersion=685270aaca8d&utm_source=copy&sharerId=69a79b59a6446bc456b14bb4" target="_blank" rel="nofollow">
 <img src="https://cdn-images.tryhackme.com/public-profile/jangknight/badge-dark-3736a75323f9.png" alt="jangknight's TryHackMe badge." width="400">
+</a>
+
+
 
 <br>
 
