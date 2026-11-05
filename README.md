@@ -12,7 +12,7 @@
 
 <br>
 
-<script src="https://tryhackme.com/badge/t/bdd26ba3e414d450a32733aa278f26329032777cd566cb54cbe4778e55c79eb455d48507376c4735ca0f5408c4e60c9e?theme=dark"></script>
+<img src="https://cdn-images.tryhackme.com/public-profile/jangknight/badge-dark-3736a75323f9.png" alt="jangknight's TryHackMe badge." width="400">
 
 <br>
 
